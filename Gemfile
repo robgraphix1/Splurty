@@ -38,6 +38,8 @@ gem 'autoprefixer-rails'
 
 gem 'simple_form'
 
+gem 'bootbox-rails', '~>0.4' 
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
